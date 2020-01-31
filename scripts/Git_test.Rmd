@@ -1,0 +1,11 @@
+---
+title: "Test_Git"
+author: "Roxanne Giguère-Tremblay"
+date: "31/01/2020"
+output: html_document
+---
+```{r}
+data(cars)
+hist(cars$speed)
+```
+
